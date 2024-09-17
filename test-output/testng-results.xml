@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-20T18:53:31 IST" name="Default suite" finished-at="2023-06-20T18:55:20 IST" duration-ms="108943">
+    <groups>
+    </groups>
+    <test started-at="2023-06-20T18:53:31 IST" name="Default test" finished-at="2023-06-20T18:55:20 IST" duration-ms="108943">
+      <class name="EXtentReport.Cross_Browser">
+        <test-method signature="testAddition()[pri:0, instance:EXtentReport.Cross_Browser@71154f21]" started-at="2023-06-20T18:53:31 IST" name="testAddition" finished-at="2023-06-20T18:54:27 IST" duration-ms="55965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method signature="testSubtraction()[pri:0, instance:EXtentReport.Cross_Browser@71154f21]" started-at="2023-06-20T18:54:27 IST" name="testSubtraction" finished-at="2023-06-20T18:55:20 IST" duration-ms="52864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtraction -->
+      </class> <!-- EXtentReport.Cross_Browser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
