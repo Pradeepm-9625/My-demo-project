@@ -36,12 +36,14 @@ public class EXtentReport {
 			Functions.Button("/html/body/div[1]/div/div/div[1]/div/div/div[2]/form/div[3]/button");
 			Functions.initiateExcelSetup(); 
 
+			
+			
 //				LocalDate Current_Date = LocalDate.now();
 			String Current_Date = Functions.time();
 			Cell cell = Functions.row.createCell(0);
 			cell.setCellValue(Current_Date.toString());
 			Thread.sleep(3000); 
-
+s
 //				        Insurance_Agent
 			Functions.Js(Functions.Xpath + "[1]/a", "Insurance_Page");
 			Thread.sleep(1000);
